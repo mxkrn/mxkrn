@@ -1,5 +1,7 @@
 
-### Hi 👋 I'm Max. Please have a look around and feel free to [drop me a line](mailto:max@koil.re) if you find anything interesting. 
+### Hi 👋 I'm Max. 
+#### I mainly build ML services for audio and music. I also like to get overly pedantic about python design patterns and tooling.
+#### Feel free to [drop me a line](mailto:max@koil.re). 
 
 <p align="center">
   <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=mxkrn&show_icons=true&count_private=true&include_all_commits=true" alt="Max Kraan's GitHub stats"/>
