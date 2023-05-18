@@ -1,6 +1,6 @@
 
 ### Hi 👋 I'm Max. 
-#### I do research on audio and music AI and use that research to build apps and services for music makers. I also like to get pedantic about python design patterns and tooling.
+#### I do research on audio and music AI and build AI software tools for music makers. I also like to get pedantic about python design patterns and tooling.
 #### Feel free to [drop me a line](mailto:max@koil.re). 
 
 <p align="center">
